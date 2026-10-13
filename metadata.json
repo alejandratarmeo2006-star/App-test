@@ -1,0 +1,6 @@
+{
+  "name": "StorageLens",
+  "description": "Inspect all files on your device divided by size, format, date, and folder, with bulk selection and fast one-tap cleanup.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">StorageLens</string>
+    <string name="title_storage_overview">Device Storage</string>
+    <string name="subtitle_storage_overview">All files sorted and divided</string>
+    <string name="clean_up_now">Clean Storage</string>
+    <string name="scan_files">Scan Files</string>
+    <string name="search_files_hint">Search file name or extension…</string>
+    <string name="filter_by_size">Filter by Size</string>
+    <string name="filter_by_format">Filter by Format</string>
+    <string name="filter_by_date">Filter by Age</string>
+    <string name="sort_by">Sort by</string>
+    <string name="delete_selected">Delete Selected</string>
+    <string name="select_all">Select All</string>
+    <string name="deselect_all">Deselect All</string>
+    <string name="confirm_delete_title">Delete Files?</string>
+    <string name="confirm_delete_msg">Are you sure you want to delete %1$d files (%2$s) from your device? This cannot be undone.</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+    <string name="storage_permission_needed">Storage Access Required</string>
+    <string name="storage_permission_desc">To scan and divide your files by size and format, StorageLens needs permission to access files.</string>
+    <string name="grant_permission">Grant Access</string>
+    <string name="sample_files_created">Demo test files generated for inspection!</string>
+    <string name="files_deleted_success">Successfully deleted %1$d files and freed %2$s!</string>
+    <string name="no_files_found">No files matching current filters</string>
+</resources>
